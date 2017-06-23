@@ -12,6 +12,7 @@
 		80ABD37C1EFD2DF300D229BD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 80ABD37A1EFD2DF300D229BD /* Main.storyboard */; };
 		80ABD37E1EFD2DF300D229BD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 80ABD37D1EFD2DF300D229BD /* Assets.xcassets */; };
 		80ABD3811EFD2DF300D229BD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 80ABD37F1EFD2DF300D229BD /* LaunchScreen.storyboard */; };
+		80ABD3891EFD315000D229BD /* kitten.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 80ABD3881EFD315000D229BD /* kitten.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		80ABD37D1EFD2DF300D229BD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		80ABD3801EFD2DF300D229BD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		80ABD3821EFD2DF300D229BD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		80ABD3881EFD315000D229BD /* kitten.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = kitten.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		80ABD3751EFD2DF300D229BD /* Cat Years */ = {
 			isa = PBXGroup;
 			children = (
+				80ABD3881EFD315000D229BD /* kitten.jpg */,
 				80ABD3761EFD2DF300D229BD /* AppDelegate.swift */,
 				80ABD3781EFD2DF300D229BD /* ViewController.swift */,
 				80ABD37A1EFD2DF300D229BD /* Main.storyboard */,
@@ -123,6 +126,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				80ABD3891EFD315000D229BD /* kitten.jpg in Resources */,
 				80ABD3811EFD2DF300D229BD /* LaunchScreen.storyboard in Resources */,
 				80ABD37E1EFD2DF300D229BD /* Assets.xcassets in Resources */,
 				80ABD37C1EFD2DF300D229BD /* Main.storyboard in Resources */,
